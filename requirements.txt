@@ -1,0 +1,9 @@
+numpy
+pandas>=2.2
+scikit-learn==1.8.*
+imbalanced-learn
+matplotlib
+seaborn>=0.13
+jupyterlab
+# optional: SHAP plots in section 18
+# shap
